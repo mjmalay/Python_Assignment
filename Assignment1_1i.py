@@ -10,7 +10,7 @@ while num>0:
 print("Sum of all digits of any number is = %d"%(sum))
 
 #II. Sum of all even digits of any number
-num=1234
+num=4321
 sum=0
 while num>0:
     i=num%10
